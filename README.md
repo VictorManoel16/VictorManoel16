@@ -52,5 +52,5 @@ principais stacks/tecnologias usadas no projeto.**HTML, CSS, JavaScript, PHP e M
   Made with 💙 by <strong>Victor Manoel</strong>
 </p>
   
-    ---
+    
 
