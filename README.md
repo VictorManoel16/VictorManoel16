@@ -39,7 +39,7 @@
 ### 🚀 Featured Projects
 
 - 🛍️ **[Login System Project](https://github.com/VictorManoel16/Projeto_Login.git)**
-principais stacks/tecnologias usadas no projeto.**HTML, CSS, JavaScript, PHP e MySQL.**
+principais stacks/Technologies Used in the Project.**HTML, CSS, JavaScript, PHP e MySQL.**
 
 - 💼 **[My Portfolio](https://github.com/VictorManoel16/Meu_portfolio.git)** –
   Technologies used:**HTML, CSS, JavaScript**
